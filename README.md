@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/🎙️%20LinkedIn%20Event%202-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
-  <a href="https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1661s" target="_blank">
+  <a href="https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1662s" target="_blank">
     <b>Docker & Terraform in Action | Build Once, Deploy Anywhere</b>
   </a>
 </p>
