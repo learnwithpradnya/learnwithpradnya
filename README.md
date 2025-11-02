@@ -54,10 +54,40 @@
 ### 🏅 **Certifications**
 
 <p align="center">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-identity-and-access-administrator-associate-badge.svg" width="90" alt="SC-300: Microsoft Identity and Access Administrator" title="SC-300: Microsoft Identity and Access Administrator"/>
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-fundamentals-badge.svg" width="90" alt="AZ-900: Azure Fundamentals" title="AZ-900: Azure Fundamentals"/>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-identity-and-access-administrator-associate-badge.svg" 
+         width="100" 
+         alt="SC-300: Microsoft Identity and Access Administrator" 
+         title="SC-300: Microsoft Identity and Access Administrator"/>
+  </a>
+  <br>
+  <b>SC-300: Microsoft Identity and Access Administrator</b>
 </p>
 
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-fundamentals-badge.svg" 
+         width="100" 
+         alt="AZ-900: Microsoft Azure Fundamentals" 
+         title="AZ-900: Microsoft Azure Fundamentals"/>
+  </a>
+  <br>
+  <b>AZ-900: Microsoft Azure Fundamentals</b>
+</p>
+
+---
+
+### 🎤 **Spoke at LinkedIn Events**
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-fundamentals/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-microsoft-365-fundamentals-badge.svg" 
+         width="100" 
+         alt="MS-900: Microsoft 365 Fundamentals" 
+         title="MS-900: Microsoft 365 Fundamentals"/>
+  </a>
+  <br>
+  <b>MS-900: Microsoft 365 Fundamentals</b>
+</p>
 ---
 <p align="center">
   <a href="https://www.youtube.com/watch?v=DL9I-CyCDH4" target="_blank">
