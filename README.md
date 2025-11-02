@@ -75,9 +75,6 @@
   <b>AZ-900: Microsoft Azure Fundamentals</b>
 </p>
 
----
-
-### 🎤 **Spoke at LinkedIn Events**
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-fundamentals/" target="_blank">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-microsoft-365-fundamentals-badge.svg" 
@@ -88,7 +85,10 @@
   <br>
   <b>MS-900: Microsoft 365 Fundamentals</b>
 </p>
+
 ---
+### 🎤 **Spoke at LinkedIn Events**
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=DL9I-CyCDH4" target="_blank">
     <img src="https://img.shields.io/badge/🎙️%20LinkedIn%20Event%201-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
