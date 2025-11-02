@@ -16,40 +16,49 @@
 
 ### ⚡ **Core Skillset**
 
-#### ☁️ **Cloud Platforms**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="30" /> Azure IaaS  
-  <br><img src="https://img.icons8.com/fluency/48/virtual-machine.png" width="30" /> Azure Virtual Desktop (AVD)  
-  <br><img src="https://img.icons8.com/fluency/48/active-directory.png" width="30" /> Azure Active Directory  
-  <br><img src="https://img.icons8.com/color/48/ms-exchange.png" width="30" /> Exchange Online  
-</p>
+## 💻 Tech Stack  
 
-#### 🧱 **Infrastructure as Code (IaC)**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/terraform.png" width="30" /> Terraform  
-  <br><img src="https://img.icons8.com/color/48/arm.png" width="30" /> ARM Templates  
-</p>
-
-#### ⚙️ **DevOps Tools**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/azure-devops.png" width="30" /> Azure DevOps  
-  <br><img src="https://img.icons8.com/ios-filled/50/github.png" width="30" /> GitHub Actions  
-</p>
-
-#### 💻 **Scripting & Automation**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/powershell.png" width="30" /> PowerShell  
-  <br><img src="https://img.icons8.com/color/48/bash.png" width="30" /> Bash  
-</p>
-
-#### 🔐 **Security & Governance**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/lock.png" width="30" /> Identity & Access Management (IAM)  
-  <br><img src="https://img.icons8.com/color/48/compliance.png" width="30" /> Compliance Management  
-  <br><img src="https://img.icons8.com/color/48/policy-document.png" width="30" /> Azure Policies  
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/PowerShell-2D5DA1?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 ---
+
+### ☁️ **Microsoft Azure**
+- Azure Infrastructure Services (IaaS)  
+- Azure Policies & Governance  
+- Azure Virtual Desktop (AVD)  
+- Azure DevOps Pipelines  
+
+### 🧱 **Infrastructure as Code (IaC)**
+- Terraform  
+- ARM Templates  
+
+### ⚙️ **Automation & Scripting**
+- PowerShell  
+- Bash  
+- Azure Automation  
+
+### 🔐 **Identity & Access Management**
+- Entra ID (Azure AD)  
+- Azure AD Connect  
+- Privileged Identity Management (PIM)  
+- Conditional Access Policies  
+
+### 🧩 **Version Control & CI/CD**
+- Git  
+- GitHub Actions  
+
+### 🐳 **Containerization**
+- Docker  
+- Kubernetes  
 
 ---
 
