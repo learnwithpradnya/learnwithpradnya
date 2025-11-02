@@ -14,51 +14,59 @@
 
 ---
 
-### ⚡ **Core Skillset**
-
 ## 💻 Tech Stack  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/PowerShell-2D5DA1?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+### ☁️ **Microsoft Azure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure%20Infrastructure%20(IaaS)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Policies%20%26%20Governance-005A9C?style=for-the-badge&logo=azurepolicy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Virtual%20Desktop%20(AVD)-0089D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps%20Pipelines-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
 ---
 
-### ☁️ **Microsoft Azure**
-- Azure Infrastructure Services (IaaS)  
-- Azure Policies & Governance  
-- Azure Virtual Desktop (AVD)  
-- Azure DevOps Pipelines  
-
 ### 🧱 **Infrastructure as Code (IaC)**
-- Terraform  
-- ARM Templates  
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform%20-%20Provisioning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM%20Templates%20-%20Automation-0089D6?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
+</p>
+
+---
 
 ### ⚙️ **Automation & Scripting**
-- PowerShell  
-- Bash  
-- Azure Automation  
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerShell%20-%20Scripting-2D5DA1?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash%20-%20Automation-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Automation%20-%20Runbooks-0078D4?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
+</p>
+
+---
 
 ### 🔐 **Identity & Access Management**
-- Entra ID (Azure AD)  
-- Azure AD Connect  
-- Privileged Identity Management (PIM)  
-- Conditional Access Policies  
+<p align="left">
+  <img src="https://img.shields.io/badge/Entra%20ID%20(Azure%20AD)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20AD%20Connect-005A9C?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Privileged%20Identity%20Management%20(PIM)-0089D6?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Conditional%20Access%20Policies-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
+
+---
 
 ### 🧩 **Version Control & CI/CD**
-- Git  
-- GitHub Actions  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git%20-%20Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions%20-%20CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
 
 ### 🐳 **Containerization**
-- Docker  
-- Kubernetes  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker%20-%20Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes%20-%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
 
 ---
 
