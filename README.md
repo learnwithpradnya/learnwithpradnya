@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Pradnya Deshpande</h1>
 
-<!--
-**learnwithpradnya/learnwithpradnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌩️ <b>Cloud & DevOps Engineer</b> | Azure Certified | Terraform | Automation | Open Source Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 **About Me**
+- 🌍 Based in Pune, India 🇮🇳  
+- ☁️ Passionate about building secure, scalable cloud infrastructure  
+- 💡 Sharing my learnings on **Azure**, **DevOps**, and **IaC**  
+- 🎤 Speaker at LinkedIn Cloud Community Events  
+  - [LinkedIn Cloud Event 1](https://www.youtube.com/watch?v=DL9I-CyCDH4)  
+  - [LinkedIn Cloud Event 2](https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1661s)  
+- 🚀 Open to collaborations and opportunities in **Europe**
+
+---
+
+### ⚡ **Core Skillset**
+
+#### ☁️ **Cloud Platforms**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="30" /> Azure IaaS  
+  <br><img src="https://img.icons8.com/fluency/48/virtual-machine.png" width="30" /> Azure Virtual Desktop (AVD)  
+  <br><img src="https://img.icons8.com/fluency/48/active-directory.png" width="30" /> Azure Active Directory  
+  <br><img src="https://img.icons8.com/color/48/ms-exchange.png" width="30" /> Exchange Online  
+</p>
+
+#### 🧱 **Infrastructure as Code (IaC)**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/terraform.png" width="30" /> Terraform  
+  <br><img src="https://img.icons8.com/color/48/arm.png" width="30" /> ARM Templates  
+</p>
+
+#### ⚙️ **DevOps Tools**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/azure-devops.png" width="30" /> Azure DevOps  
+  <br><img src="https://img.icons8.com/ios-filled/50/github.png" width="30" /> GitHub Actions  
+</p>
+
+#### 💻 **Scripting & Automation**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/powershell.png" width="30" /> PowerShell  
+  <br><img src="https://img.icons8.com/color/48/bash.png" width="30" /> Bash  
+</p>
+
+#### 🔐 **Security & Governance**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/lock.png" width="30" /> Identity & Access Management (IAM)  
+  <br><img src="https://img.icons8.com/color/48/compliance.png" width="30" /> Compliance Management  
+  <br><img src="https://img.icons8.com/color/48/policy-document.png" width="30" /> Azure Policies  
+</p>
+
+---
+
+### 🏅 **Certifications**
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-identity-and-access-administrator-associate-badge.svg" width="90" alt="SC-300: Microsoft Identity and Access Administrator" title="SC-300: Microsoft Identity and Access Administrator"/>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-fundamentals-badge.svg" width="90" alt="AZ-900: Azure Fundamentals" title="AZ-900: Azure Fundamentals"/>
+</p>
+
+---
+
+### 📫 **How to Reach Me**
+<p align="center">
+  <a href="https://dev.to/learnwithpradnya"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://github.com/learnwithpradnya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://hashnode.com/@learnwithpradnya"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/clouddevopswithpradnya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *“Automate. Innovate. Share.”*
