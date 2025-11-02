@@ -51,42 +51,14 @@
 
 ---
 
+---
+
 ### 🏅 **Certifications**
 
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/" target="_blank">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-identity-and-access-administrator-associate-badge.svg" 
-         width="100" 
-         alt="SC-300: Microsoft Identity and Access Administrator" 
-         title="SC-300: Microsoft Identity and Access Administrator"/>
-  </a>
-  <br>
-  <b>SC-300: Microsoft Identity and Access Administrator</b>
-</p>
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" target="_blank">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-fundamentals-badge.svg" 
-         width="100" 
-         alt="AZ-900: Microsoft Azure Fundamentals" 
-         title="AZ-900: Microsoft Azure Fundamentals"/>
-  </a>
-  <br>
-  <b>AZ-900: Microsoft Azure Fundamentals</b>
-</p>
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-fundamentals/" target="_blank">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-microsoft-365-fundamentals-badge.svg" 
-         width="100" 
-         alt="MS-900: Microsoft 365 Fundamentals" 
-         title="MS-900: Microsoft 365 Fundamentals"/>
-  </a>
-  <br>
-  <b>MS-900: Microsoft 365 Fundamentals</b>
-</p>
+<p align="center"> <a href="https://learn.microsoft.com/en-us/certifications/exams/az-900/" target="_blank"> <img src="8ac9deb4-e0b7-40ac-949c-7e42c7e9d345.png" alt="AZ-900: Microsoft Certified Azure Fundamentals" width="120" /> </a> <a href="https://learn.microsoft.com/en-us/certifications/exams/ms-900/" target="_blank"> <img src="a44c0f21-549d-4fdf-ac8d-a0d2990f6a1a.png" alt="MS-900: Microsoft 365 Fundamentals" width="120" /> </a> <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300/" target="_blank"> <img src="ee3ee101-4e58-454c-9ffa-e0c3d45d0c94.png" alt="SC-300: Microsoft Identity and Access Administrator" width="120" /> </a> </p> <p align="center"> <b>🎓 SC-300: Microsoft Identity and Access Administrator | AZ-900: Azure Fundamentals | MS-900: Microsoft 365 Fundamentals</b> </p>
 
 ---
+
 ### 🎤 **Spoke at LinkedIn Events**
 
 <p align="center">
