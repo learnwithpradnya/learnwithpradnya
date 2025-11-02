@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Pradnya Deshpande</h1>
 
 <p align="center">
-🌩️ <b>Cloud & DevOps Engineer</b> | Azure Certified | Terraform | Automation | Open Source Enthusiast
+🌩️ <b>Cloud & DevOps Engineer</b> | Azure Certified | Terraform | Automation | DevOps Enthusiast
 </p>
 
 ---
@@ -10,10 +10,7 @@
 - 🌍 Based in Pune, India 🇮🇳  
 - ☁️ Passionate about building secure, scalable cloud infrastructure  
 - 💡 Sharing my learnings on **Azure**, **DevOps**, and **IaC**  
-- 🎤 Speaker at LinkedIn Cloud Community Events  
-  - [LinkedIn Cloud Event 1](https://www.youtube.com/watch?v=DL9I-CyCDH4)  
-  - [LinkedIn Cloud Event 2](https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1661s)  
-- 🚀 Open to collaborations and opportunities in **Europe**
+- 🚀 Open for the opportunities in **Europe**
 
 ---
 
@@ -62,7 +59,26 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=DL9I-CyCDH4" target="_blank">
+    <img src="https://img.shields.io/badge/🎙️%20LinkedIn%20Event%201-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=DL9I-CyCDH4" target="_blank">
+    <b>Automate Docker CI/CD with Azure DevOps | Push Images to Azure Container Registry (ACR)</b>
+  </a>
+  <br><br>
 
+  <a href="https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1661s" target="_blank">
+    <img src="https://img.shields.io/badge/🎙️%20LinkedIn%20Event%202-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1661s" target="_blank">
+    <b>Docker & Terraform in Action | Build Once, Deploy Anywhere</b>
+  </a>
+</p>
+
+---
 ### 📫 **How to Reach Me**
 <p align="center">
   <a href="https://dev.to/learnwithpradnya"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
