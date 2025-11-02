@@ -55,7 +55,23 @@
 
 ### 🏅 **Certifications**
 
-<p align="center"> <a href="https://learn.microsoft.com/en-us/certifications/exams/az-900/" target="_blank"> <img src="8ac9deb4-e0b7-40ac-949c-7e42c7e9d345.png" alt="AZ-900: Microsoft Certified Azure Fundamentals" width="120" /> </a> <a href="https://learn.microsoft.com/en-us/certifications/exams/ms-900/" target="_blank"> <img src="a44c0f21-549d-4fdf-ac8d-a0d2990f6a1a.png" alt="MS-900: Microsoft 365 Fundamentals" width="120" /> </a> <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300/" target="_blank"> <img src="ee3ee101-4e58-454c-9ffa-e0c3d45d0c94.png" alt="SC-300: Microsoft Identity and Access Administrator" width="120" /> </a> </p> <p align="center"> <b>🎓 SC-300: Microsoft Identity and Access Administrator | AZ-900: Azure Fundamentals | MS-900: Microsoft 365 Fundamentals</b> </p>
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/AZ-900.png" alt="AZ-900: Microsoft Certified Azure Fundamentals" width="140" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/MS-900.png" alt="MS-900: Microsoft 365 Fundamentals" width="140" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/certifications/identity-and-access-administrator/" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/SC-300.png" alt="SC-300: Microsoft Identity and Access Administrator" width="140" />
+  </a>
+</p>
+
+<p align="center">
+  🎓 <b>AZ-900</b> • <b>MS-900</b> • <b>SC-300</b>
+</p>
 
 ---
 
