@@ -72,7 +72,7 @@
 
 ### 🏅 **Certifications**
 
-<p align="center">
+<p align="left">
   <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
     <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/AZ-900.png" alt="AZ-900: Microsoft Certified Azure Fundamentals" width="140" />
   </a>
@@ -86,7 +86,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   🎓 <b>AZ-900</b> • <b>MS-900</b> • <b>SC-300</b>
 </p>
 
@@ -94,7 +94,7 @@
 
 ### 🎤 **Spoke at LinkedIn Events**
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/watch?v=DL9I-CyCDH4" target="_blank">
     <img src="https://img.shields.io/badge/🎙️%20LinkedIn%20Event%201-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -115,7 +115,7 @@
 
 ---
 ### 📫 **How to Reach Me**
-<p align="center">
+<p align="left">
   <a href="https://dev.to/learnwithpradnya"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://github.com/learnwithpradnya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://hashnode.com/@learnwithpradnya"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
@@ -123,5 +123,3 @@
 </p>
 
 ---
-
-⭐ *“Automate. Innovate. Share.”*
