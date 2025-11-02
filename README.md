@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Pradnya Deshpande</h1>
 
 <p align="center">
-🌩️ <b>Cloud & DevOps Engineer</b> | Azure Certified | Terraform | Automation | DevOps Enthusiast
+🌩️ <b>Cloud & DevOps Engineer</b> | DevOps Enthusiast
 </p>
 
 ---
