@@ -70,27 +70,43 @@
 
 ---
 
-### 🏅 **Certifications**
+### 🏅 Certifications
+### 🏅 Certifications
 
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
-    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/AZ-900.png" alt="AZ-900: Microsoft Certified Azure Fundamentals" width="140" />
+  <a href="https://www.credly.com/badges/2cd6d26f-c4db-4ada-b7b0-2f73273566aa?source=linked_in_profile" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/AZ-900.png" 
+         alt="AZ-900 Azure Fundamentals" width="120"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/" target="_blank">
-    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/MS-900.png" alt="MS-900: Microsoft 365 Fundamentals" width="140" />
+  &nbsp;
+
+  <a href="https://www.credly.com/badges/3b636727-75e9-4c36-9c7d-b9867170508f?source=linked_in_profile" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/MS-900.png" 
+         alt="MS-900 Microsoft 365 Fundamentals" width="120"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/certifications/identity-and-access-administrator/" target="_blank">
-    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/SC-300.png" alt="SC-300: Microsoft Identity and Access Administrator" width="140" />
+  &nbsp;
+
+  <a href="https://learn.microsoft.com/en-us/users/pradnyadeshpande-8020/credentials/7a1ef21dfbf3e299" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/SC-300.png" 
+         alt="SC-300 Identity and Access Administrator" width="120"/>
+  </a>
+  &nbsp;
+
+  <a href="https://learn.microsoft.com/en-us/users/pradnyadeshpande-8020/credentials/24c3e4cb0c7ea06d" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/GH-900.png" 
+         alt="GH-900 GitHub Foundations" width="120"/>
+  </a>
+  &nbsp;
+
+  <a href="https://learn.microsoft.com/en-us/users/pradnyadeshpande-8020/credentials/8f44cea7f4278dc0" target="_blank">
+    <img src="https://github.com/learnwithpradnya/learnwithpradnya/blob/main/images/GH-200.png" 
+         alt="GH-200 GitHub Actions" width="120"/>
   </a>
 </p>
 
 <p align="left">
-  🎓 <b>AZ-900</b> • <b>MS-900</b> • <b>SC-300</b>
+  🎓 <b>AZ-900</b> • <b>MS-900</b> • <b>SC-300</b> • <b>GH-900</b> • <b>GH-200</b>
 </p>
-
----
 
 ### 🎤 **Spoke at LinkedIn Events**
 
