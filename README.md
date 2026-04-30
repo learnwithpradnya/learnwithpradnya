@@ -71,7 +71,6 @@
 ---
 
 ### 🏅 Certifications
-### 🏅 Certifications
 
 <p align="left">
   <a href="https://www.credly.com/badges/2cd6d26f-c4db-4ada-b7b0-2f73273566aa?source=linked_in_profile" target="_blank">
