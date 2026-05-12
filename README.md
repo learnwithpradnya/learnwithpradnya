@@ -128,10 +128,9 @@
 ## 🚀 Key Repositories
 
 <p align="left">
-  <a href="[https://github.com/learnwithpradnya?tab=repositories&q=terraform&type=&language=&sort=](https://github.com/learnwithpradnya/Docker)">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <a href="https://github.com/learnwithpradnya/Docker">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
-
 </p>
 ---
 
