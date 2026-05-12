@@ -107,28 +107,16 @@
   🎓 <b>AZ-900</b> • <b>MS-900</b> • <b>SC-300</b> • <b>GH-900</b> • <b>GH-200</b>
 </p>
 
-### 🎤 **Spoke at LinkedIn Events**
+## 🎤 Talks & Workshops
 
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=DL9I-CyCDH4" target="_blank">
-    <img src="https://img.shields.io/badge/🎙️%20LinkedIn%20Event%201-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=DL9I-CyCDH4" target="_blank">
-    <b>Automate Docker CI/CD with Azure DevOps | Push Images to Azure Container Registry (ACR)</b>
-  </a>
-  <br><br>
+- **Automate Docker CI/CD with Azure DevOps & ACR**  
+  Platform: LinkedIn Live / YouTube • Focus: Building CI/CD for container images with Azure DevOps and Azure Container Registry  
+  [Watch the recording](https://www.youtube.com/watch?v=DL9I-CyCDH4)
 
-  <a href="https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1661s" target="_blank">
-    <img src="https://img.shields.io/badge/🎙️%20LinkedIn%20Event%202-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1662s" target="_blank">
-    <b>Docker & Terraform in Action | Build Once, Deploy Anywhere</b>
-  </a>
-</p>
-
----
+- **Docker & Terraform in Action – Build Once, Deploy Anywhere**  
+  Platform: LinkedIn Live / YouTube • Focus: Combining Docker with Terraform to create reusable deployment workflows  
+  [Watch the recording](https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1662s)
+  
 ### 📫 **How to Reach Me**
 <p align="left">
   <a href="https://dev.to/learnwithpradnya"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
