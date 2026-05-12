@@ -7,10 +7,10 @@
 ---
 
 ### 🧠 **About Me**
-- 🌍 Based in Pune, India 🇮🇳  
-- ☁️ Passionate about building secure, scalable cloud infrastructure  
-- 💡 Sharing my learnings on **Azure**, **DevOps**, and **IaC**  
-- 🚀 Open for the opportunities in **Europe**
+- ☁️ Based in Pune, India 🇮🇳
+- 🧱 Focused on **Terraform** and Infrastructure as Code on Azure
+- 🗣️ I regularly speak at community events and publish hands‑on content on CI/CD, containers, and IaC
+- 🌍 Open to opportunities in **Europe** and global HashiCorp community initiatives
 
 ---
 
