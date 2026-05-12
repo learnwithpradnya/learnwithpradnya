@@ -123,41 +123,16 @@
 ## 📝 Articles & Blogs
 
 - 📘 Terraform Variable Precedence Explained
-- 📘 Understanding Terraform Root Modules & Generated Files
-- 📘 Deploy Static Website to Azure using GitHub Actions
-- 📘 Azure DevOps CI/CD for Docker Containers
-- 📘 Getting Started with Terraform Workspaces on Azure
-
 ---
 
 ## 🚀 Key Repositories
 
 <p align="left">
-  <a href="https://github.com/learnwithpradnya?tab=repositories&q=terraform&type=&language=&sort=">
+  <a href="[https://github.com/learnwithpradnya?tab=repositories&q=terraform&type=&language=&sort=](https://github.com/learnwithpradnya/Docker)">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/learnwithpradnya?tab=repositories&q=azure&type=&language=&sort=">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/learnwithpradnya?tab=repositories&q=github-actions&type=&language=&sort=">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/learnwithpradnya?tab=repositories&q=docker&type=&language=&sort=">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/learnwithpradnya?tab=repositories&q=kubernetes&type=&language=&sort=">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/learnwithpradnya?tab=repositories&q=azure-devops&type=&language=&sort=">
-    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  </a>
 </p>
-
 ---
 
 ### 📫 **How to Reach Me**
