@@ -9,7 +9,7 @@
 ### 🧠 **About Me**
 - ☁️ Based in Pune, India 🇮🇳
 - 🧱 Focused on **Terraform** and Infrastructure as Code on Azure
-- 🗣️ I regularly speak at community events and publish hands‑on content on CI/CD, containers, and IaC
+- 🗣️ I regularly speak at community events and publish hands-on content on CI/CD, containers, and IaC
 - 🌍 Open to opportunities in **Europe** and global HashiCorp community initiatives
 
 ---
@@ -67,7 +67,6 @@
   <img src="https://img.shields.io/badge/Kubernetes%20-%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 🏅 Certifications
@@ -107,6 +106,8 @@
   🎓 <b>AZ-900</b> • <b>MS-900</b> • <b>SC-300</b> • <b>GH-900</b> • <b>GH-200</b>
 </p>
 
+---
+
 ## 🎤 Talks & Workshops
 
 - **Automate Docker CI/CD with Azure DevOps & ACR**  
@@ -116,7 +117,49 @@
 - **Docker & Terraform in Action – Build Once, Deploy Anywhere**  
   Platform: LinkedIn Live / YouTube • Focus: Combining Docker with Terraform to create reusable deployment workflows  
   [Watch the recording](https://www.youtube.com/watch?v=NUJQZ7lzGHA&t=1662s)
-  
+
+---
+
+## 📝 Articles & Blogs
+
+- 📘 Terraform Variable Precedence Explained
+- 📘 Understanding Terraform Root Modules & Generated Files
+- 📘 Deploy Static Website to Azure using GitHub Actions
+- 📘 Azure DevOps CI/CD for Docker Containers
+- 📘 Getting Started with Terraform Workspaces on Azure
+
+---
+
+## 🚀 Key Repositories
+
+<p align="left">
+  <a href="https://github.com/learnwithpradnya?tab=repositories&q=terraform&type=&language=&sort=">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/learnwithpradnya?tab=repositories&q=azure&type=&language=&sort=">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/learnwithpradnya?tab=repositories&q=github-actions&type=&language=&sort=">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/learnwithpradnya?tab=repositories&q=docker&type=&language=&sort=">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/learnwithpradnya?tab=repositories&q=kubernetes&type=&language=&sort=">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/learnwithpradnya?tab=repositories&q=azure-devops&type=&language=&sort=">
+    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 📫 **How to Reach Me**
 <p align="left">
   <a href="https://dev.to/learnwithpradnya"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
